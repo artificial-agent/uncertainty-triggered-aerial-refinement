@@ -8,9 +8,15 @@ Live site: https://artificial-agent.github.io/uncertainty-triggered-aerial-refin
 
 ## Editing
 
-Everything lives in `index.html`. Search for `TODO` to find what still needs filling in:
+Everything lives in `index.html`. Search for `TODO` to find what still needs filling in.
 
-- authors, affiliations, venue
+**Double-blind:** the paper is under review. Keep authors, affiliations, personal
+links, and author metadata out of the page (and out of committed assets, e.g.
+figures with lab logos or the paper PDF with a de-anonymized title block) until
+the submission is de-anonymized. Places to fill in then are marked
+`TODO after de-anonymization`.
+
+- venue
 - Paper / arXiv / Code / Video links
 - abstract and method description
 - BibTeX
